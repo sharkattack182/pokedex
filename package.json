@@ -19,6 +19,9 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-session": "^1.17.1",
-    "passport": "^0.4.1"
+    "fs": "0.0.1-security",
+    "passport": "^0.4.1",
+    "path": "^0.12.7",
+    "sequelize": "^6.3.5"
   }
 }

@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sharkattack182/pokedex/issues"
   },
-  "homepage": "https://github.com/sharkattack182/pokedex#readme"
+  "homepage": "https://github.com/sharkattack182/pokedex#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "passport": "^0.4.1"
+  }
 }
